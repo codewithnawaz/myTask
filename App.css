@@ -1,0 +1,21 @@
+body{
+background-color: black;
+}
+
+.h2{
+  justify-content: center;
+  align-items: center;text-align: center;
+  color: white;
+}
+.nav-link:hover{
+  color: blue;
+}
+.nav-link{
+  color: white;
+  font-size: 25px;
+}
+.navbar-toggler{
+  border-color: blue;
+  color: blue;
+  background-color: blue;
+}
